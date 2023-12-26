@@ -29,15 +29,6 @@ function toggleImages() {
   var image5 = document.getElementById("img5");
   var image6 = document.getElementById("img6");
 
-  var image7 = document.getElementById("img7");
-  var image8 = document.getElementById("img8");
-  var image9 = document.getElementById("img9");
-  var image10 = document.getElementById("img10");
-  var image11 = document.getElementById("img11");
-  var image12 = document.getElementById("img12");
-  var image13 = document.getElementById("img13");
-  var image14 = document.getElementById("img14");
-
   if (
     image1.style.display === "block" ||
     image1.style.display === "" ||
